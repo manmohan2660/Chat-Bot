@@ -1,1 +1,2 @@
-# Chat-Bot
+# chatbot app
+ using Node js/ JavaScript
